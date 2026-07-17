@@ -16,8 +16,9 @@ I am a Computer Science and Engineering student at **Ahsania Mission University 
 - **Next-Gen Engineering:** AI-Assisted Coding, AI Mindset & Engineering
 
 ## 📈 GitHub Stats
-![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemasterrakib123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemasterrakib123&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemasterrakib123&theme=radical" alt="Rakibul's Streak Stats" />
+</p>
 
 ## 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/md-rakibul-hasan-87589722a/)
